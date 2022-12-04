@@ -1,4 +1,3 @@
-RECODE BY USAMA X AKASH
 import os
 os.system('clear')
 os.system("pip install requests")
